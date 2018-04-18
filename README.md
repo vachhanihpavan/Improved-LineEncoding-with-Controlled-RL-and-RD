@@ -59,32 +59,14 @@ CO250-MP-120-151
 │   README.md
 │   Introduction.md
 |   Design.md
-│
-└───Implementation
-│      b2s.cpp
-│      s2b.cpp
-|      decode.cpp
-|      encode.cpp
-|      graphs.m
-|      encode_string.cpp
-|      decode_input.txt
-|      decoded_data.txt
-|	   controller.c
-|      automation.cpp
-│   
-└───Cleaned Code
-       b2s.cpp
-       s2b.cpp
-       decode.cpp
-       encode.cpp
-       automation.cpp
-       graphs.m
-       Overlap.m
-       |__MATLAB
-            Initial implementation idea
-          
-          
-          
+└───src
+     b2s.cpp
+     s2b.cpp
+     decode.cpp
+     encode.cpp
+     automation.cpp
+     graphs.m
+     Overlap.m
 ```
 
 ## Dependencies
